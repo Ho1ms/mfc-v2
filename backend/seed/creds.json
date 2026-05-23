@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-spanner-497112-g0",
+  "private_key_id": "cac1eba560d6960259172dd0e61bd7f3c56aa753",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlkE4wHOW1HxLt\n0vHl0/JEg9qfqP/LnCfJR0MeJnFvZuKc9qkkZOwdXebfvQhn6jZWKsKZO9H+Qkq/\ngUrR4D4EGfdUUD35L7zMY4bimD+9JHSeuW70CG45feMalxNvdSmPoHMO4mtd8u8y\n+o008ypK+O3PqD76sfHClIiEVsPiyPnXJJ4txa5psxHfEzSzU2A8SCeSjMlQP3Yq\n1wQKLcWxO32nlErlNeFdQbmPxcSiTVxfnYH2RksTkjB0vILQpKJdlK9QUHBYo26m\n6xxvAKy5wBEifxcBxtujFbr1UoHLbnzmqFyLceINMvydYsU6qgSwolPulq+fkbg8\n2at5W6/rAgMBAAECggEAJBZNmZX2rO9H7Cecq91n7fSwTyhOSyAEHR8Ht7ChZRAj\nuuWyQddfoAoykKTIXSreBH5PqFkAB4aSS40z9CQv0OM9adKnZgm8FdaQzgQoWOpn\nLssbBwpgPBzEW69jeGz5mJYcyuU1rZzSlLf7BKzeeXoCSwI5dvK20jjD8Scr6fVp\nCp/19BEsqBiF2yLrmW3xiqgpXRQ3Op5h44agtffm8KvFbR6pRV6fngyaPxf6OlkI\n/hU1MHPu2dJ2R0d3DvNOURFoM2j3nQAufF0Rt8rB76X/mAYJyVm13dBwCr5YZHbi\nvBn1xP+sFDBNkrJNkMNXH4w+r71nO7yPyMBpptNcIQKBgQD+YRVM3/bw7VDhkb3a\nz1b1XloRVsOnPkfWYe7zRgXN0FQ1lrzrpFkkG2G2iGFrTk8IsDKteLjUiRyRSLU2\nwkoksloiWK3sFXP+cwDuazIrf+yTGDSduN+zdSg3yiHtHgewSNBxf/umIytfRVF3\n1i5ogqUrXmIkGVMmFsj3ok8+0QKBgQDnBr7mpwcnV9ObmWBIachxYQGXtMBjD+Gg\n8lmCu4sRPB8/KhPAyszce9d5G/6LP9nmAhvjGgWmG4CHIhQtSpHKDYmFhGpTJUOl\nET7JpV6gPlvIGv+XuR2lFLtc58pVRsC2sSiSc6ZhdK87y9DrxthD/GgRh2X2J7d0\nkicBs6fJ+wKBgQC/OFmbtUxbZfoD5tvSDUSwJGIOYKupH98+n9XRGBUq1u1Gb27K\nsHu18cNtRG3/DRnKTTF7R6GhWwSXjhFy/XBgz5WD9iefrazJXMgZcYmAO6SqGmsL\nGTtIGszFy3PfXFCpSsMuXufbxtpGvsP0EpRGSddBl6ysuEDSBBTEWkW50QKBgEsk\nQos64HTHeCgv5sUmwu89ogr522ldDQIQUVTYMw9UAsXEpdAbJi7AiQD3Pf+EsRbC\nsNdY62VvpIpPZ0ij7G9Pn98xhnOstyfFSCrGAtUT8z5OqbtrllzPNXGuYn0CGkRR\nsuSPgRpJnYVRcY5+inDyc9bftyYtHNppfw5qpLRpAoGACHYtZUXfHQxgyi02MQ+7\nTXLc7FU4nDEFlJdCIrefJ90X+68UfU5FTeotNkQRYVnboF8fGhpCKXmbE1zDeIIt\nZaFDa4iLykRmllQTCWmhGJ3+IXy6rtyAOLcfuBms04FA9Uml9S456wCMdhnDsYSf\noj2CmMtFUdHGhcHXRNuuYcY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-mfc@tribal-spanner-497112-g0.iam.gserviceaccount.com",
+  "client_id": "110255988872933990603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-mfc%40tribal-spanner-497112-g0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
